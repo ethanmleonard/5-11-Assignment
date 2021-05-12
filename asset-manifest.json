@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/5-11-Assignment/static/css/main.63515dd0.chunk.css",
+    "main.js": "/5-11-Assignment/static/js/main.b834f0c8.chunk.js",
+    "main.js.map": "/5-11-Assignment/static/js/main.b834f0c8.chunk.js.map",
+    "runtime-main.js": "/5-11-Assignment/static/js/runtime-main.4df7c2b3.js",
+    "runtime-main.js.map": "/5-11-Assignment/static/js/runtime-main.4df7c2b3.js.map",
+    "static/js/2.031e09a5.chunk.js": "/5-11-Assignment/static/js/2.031e09a5.chunk.js",
+    "static/js/2.031e09a5.chunk.js.map": "/5-11-Assignment/static/js/2.031e09a5.chunk.js.map",
+    "static/js/3.fc1738ee.chunk.js": "/5-11-Assignment/static/js/3.fc1738ee.chunk.js",
+    "static/js/3.fc1738ee.chunk.js.map": "/5-11-Assignment/static/js/3.fc1738ee.chunk.js.map",
+    "index.html": "/5-11-Assignment/index.html",
+    "static/css/main.63515dd0.chunk.css.map": "/5-11-Assignment/static/css/main.63515dd0.chunk.css.map",
+    "static/js/2.031e09a5.chunk.js.LICENSE.txt": "/5-11-Assignment/static/js/2.031e09a5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/5-11-Assignment/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4df7c2b3.js",
+    "static/js/2.031e09a5.chunk.js",
+    "static/css/main.63515dd0.chunk.css",
+    "static/js/main.b834f0c8.chunk.js"
+  ]
+}
